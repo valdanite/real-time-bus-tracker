@@ -19,3 +19,7 @@ Edit mapanimation.js.
 mapboxgl.accessToken = '';
 ```
 Open index.html to run this project.
+
+# Future Improvements
+* Add more stops to different places in the area.
+* Add label to marker to describe each stop as it lands on it.
